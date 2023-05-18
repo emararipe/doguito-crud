@@ -1,5 +1,11 @@
 # doguito-crud
 
+### 📌 Guia
+ 1. [Visão geral](#visao-geral)
+ 2. [Iniciando o projeto](#inicio-proj)
+
+<div id='visao-geral'/>  
+
 ## 👁️ Visão geral
 >**Note**: Este projeto foi executado na durante capacitação Full-Stack do Projeto Desenvolve, oferecido pelo Grupo Boticário em parceria com a Alura.
 
@@ -29,7 +35,9 @@ Em caso de operação bem sucedida, ambas vão redirecionar o usuário para uma 
 
 Ao longo do densenvolvimento do código, as funções foram separadas entre aquelas que lidavam com as **requisições HTTP** - na pasta ``service`` e aquelas que lidavam com a **manipulação dos dados** dos clientes, na pasta ``controller``.
 
-# 🏁Iniciando o projeto
+<div id='inicio-proj'/> 
+
+## 🏁 Iniciando o projeto
 Para começar, vamos usar requisições http para manipular nosso banco de dados local ``db.json``, porém, como estamos simulando um servidor, precisamos instalar o json-server:
 ```
 npm install -g json-server
