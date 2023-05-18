@@ -38,7 +38,7 @@ Ao longo do densenvolvimento do código, as funções foram separadas entre aque
 <div id='inicio-proj'/> 
 
 ## 🏁 Iniciando o projeto
-Para começar, vamos usar requisições http para manipular nosso banco de dados local ``db.json``, porém, como estamos simulando um servidor, precisamos instalar o json-server:
+Para começar, vamos usar requisições http para manipular nosso "banco de dados" em ``db.json``, porém, como estamos simulando um servidor, precisamos instalar o json-server:
 ```
 npm install -g json-server
 ```
