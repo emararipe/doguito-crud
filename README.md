@@ -46,7 +46,7 @@ Uma vez instalado no modo global(``-g``) podemos inicializar o json-server e est
 ```
 json-server --watch db.json
 ```
-
+Mas caso você não queira instalar o json-server globalmente, basta retirar o ``-g`` no momento de instalação e fazer e passar o comando de inicialização começando com ``npx``.
 
 ---
 > **Warning**: *Em construção*...
